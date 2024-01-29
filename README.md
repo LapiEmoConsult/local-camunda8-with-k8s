@@ -29,7 +29,7 @@
     kubectl port-forward svc/camunda-platform-zeebe-gateway 26500:26500 -n default
 
 ### 2.5 Ouvrir Camunda Modeler pour deployer un processus
-![Alt text](camunda-modeler-deploy-process-1.PNG)
+![Alt text](camunda-modeler-deploy-process.PNG)
 
 ## 3. Arreter l'application Camunda 8:
 
